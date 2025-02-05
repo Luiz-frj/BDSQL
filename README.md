@@ -1,3 +1,7 @@
+##Feito por:
+  - Luiz Francisco Rodrigues Junior
+  - Guilherme Zappalenti Fragiacomo
+
 # Introdução
 O SmartMirrorFit é um sistema de gerenciamento para um espelho inteligente focado em fitness. Ele permite a compra de produtos e serviços, controle de assinaturas, gestão de estoque, fornecedores, pagamentos e funcionários. O objetivo é proporcionar uma experiência fluida para usuários e administradores, garantindo eficiência operacional.
 
